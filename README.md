@@ -64,7 +64,7 @@
 ---
 
 ### Activity Diagram
-> Flow การทำงานของระบบ ตั้งแต่ผู้ใช้กรอกใบแจ้งซ่อม → ถึงขั้นตอนการแก้ไข
+> Flow การทำงานของระบบ
 
 ![Activity Diagram](./Activity-Diagram.png)
 
