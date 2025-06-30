@@ -95,9 +95,9 @@ http://localhost:8080
 
 ---
 
-## สิ่งที่ควรปรับปรุง(เหตุที่ไม่ได้ปรับปรุงเพราะเป็นระบบเก่าตอนทำโปรเจคจบ)
+## สิ่งที่ควรปรับปรุง (เหตุที่ไม่ได้ปรับปรุงเพราะเป็นระบบเก่าตอนทำโปรเจคจบ)
 
-- แยกเป็น MVC(เช่น Laravel) เพิ่ม maintainability
+- แยกเป็น MVC (เช่น Laravel) เพิ่ม maintainability
 - ใช้ PostgreSQL + Foreign Key Constraints
 - ใส่ JWT/Auth Middleware
 - แปลง UI เป็น SPA (React หรือ Next.js)
